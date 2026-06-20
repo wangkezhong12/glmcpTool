@@ -1,6 +1,6 @@
 # GLM Coding Plan 额度状态栏
 
-在 Claude Code 底部状态栏实时显示 GLM Coding Plan 的额度使用情况。零依赖,单文件 Node 脚本。
+在 Claude Code 底部状态栏实时显示 GLM Coding Plan 的额度使用情况。零依赖,单文件 Node 脚本。适用环境为MacOS
 
 ```
 GLM-5.2 ▍ctx 42% ▍5h 28% ▍Wk 46% ▍MCP 1% · 今日 10.7M
